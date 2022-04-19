@@ -1,0 +1,1920 @@
+fileFormatVersion: 2
+guid: ff741a414263ae64090bf776b4060b5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6218342098282159845
+    second: stockPriceSpriteSheet_0
+  - first:
+      213: -8175444671616347116
+    second: stockPriceSpriteSheet_1
+  - first:
+      213: 1914790324323921079
+    second: stockPriceSpriteSheet_2
+  - first:
+      213: 9096546756266486105
+    second: stockPriceSpriteSheet_3
+  - first:
+      213: -5839486997417219045
+    second: stockPriceSpriteSheet_4
+  - first:
+      213: 1306801161850680008
+    second: stockPriceSpriteSheet_5
+  - first:
+      213: -4410807068270870200
+    second: stockPriceSpriteSheet_6
+  - first:
+      213: 318043345805195289
+    second: stockPriceSpriteSheet_7
+  - first:
+      213: -1476103402566812444
+    second: stockPriceSpriteSheet_8
+  - first:
+      213: -2248203110970259582
+    second: stockPriceSpriteSheet_9
+  - first:
+      213: -7642377047670632133
+    second: stockPriceSpriteSheet_10
+  - first:
+      213: -357031727392489122
+    second: stockPriceSpriteSheet_11
+  - first:
+      213: 4546918351001178279
+    second: stockPriceSpriteSheet_12
+  - first:
+      213: 1364816265845009
+    second: stockPriceSpriteSheet_13
+  - first:
+      213: -2770557540686167756
+    second: stockPriceSpriteSheet_14
+  - first:
+      213: 9214654584449397894
+    second: stockPriceSpriteSheet_15
+  - first:
+      213: 4302247763304986275
+    second: stockPriceSpriteSheet_16
+  - first:
+      213: 6401323132599750820
+    second: stockPriceSpriteSheet_17
+  - first:
+      213: 874990262105367062
+    second: stockPriceSpriteSheet_18
+  - first:
+      213: 7421007381919826954
+    second: stockPriceSpriteSheet_19
+  - first:
+      213: 8748072173584918863
+    second: stockPriceSpriteSheet_20
+  - first:
+      213: 8018680399226213693
+    second: stockPriceSpriteSheet_21
+  - first:
+      213: 4330644617502827543
+    second: stockPriceSpriteSheet_22
+  - first:
+      213: -8387131180510144135
+    second: stockPriceSpriteSheet_23
+  - first:
+      213: -240022547593198813
+    second: stockPriceSpriteSheet_24
+  - first:
+      213: 8978422778090372022
+    second: stockPriceSpriteSheet_25
+  - first:
+      213: 2871027538873599595
+    second: stockPriceSpriteSheet_26
+  - first:
+      213: -8947721185135867574
+    second: stockPriceSpriteSheet_27
+  - first:
+      213: -7481692335123321112
+    second: stockPriceSpriteSheet_28
+  - first:
+      213: 1890355704566197333
+    second: stockPriceSpriteSheet_29
+  - first:
+      213: 3270483771383617018
+    second: stockPriceSpriteSheet_30
+  - first:
+      213: 7759221474154088608
+    second: stockPriceSpriteSheet_31
+  - first:
+      213: -7002888915355464056
+    second: stockPriceSpriteSheet_32
+  - first:
+      213: -3090250603282013895
+    second: stockPriceSpriteSheet_33
+  - first:
+      213: 5701890603286095802
+    second: stockPriceSpriteSheet_34
+  - first:
+      213: -1431435429801811575
+    second: stockPriceSpriteSheet_35
+  - first:
+      213: 4269447379025838382
+    second: stockPriceSpriteSheet_36
+  - first:
+      213: 4159874126018171158
+    second: stockPriceSpriteSheet_37
+  - first:
+      213: 7986814999198947181
+    second: stockPriceSpriteSheet_38
+  - first:
+      213: -2567118567961428220
+    second: stockPriceSpriteSheet_39
+  - first:
+      213: 4197030740903965322
+    second: stockPriceSpriteSheet_40
+  - first:
+      213: -5190110157334382700
+    second: stockPriceSpriteSheet_41
+  - first:
+      213: -23492243369434387
+    second: stockPriceSpriteSheet_42
+  - first:
+      213: -3917122962407638022
+    second: stockPriceSpriteSheet_43
+  - first:
+      213: 5012696708285333975
+    second: stockPriceSpriteSheet_44
+  - first:
+      213: -4072523373120476024
+    second: stockPriceSpriteSheet_45
+  - first:
+      213: -2890495795758178223
+    second: stockPriceSpriteSheet_46
+  - first:
+      213: -9161242044766849787
+    second: stockPriceSpriteSheet_47
+  - first:
+      213: 337417561869908930
+    second: stockPriceSpriteSheet_48
+  - first:
+      213: -3077769551153971110
+    second: stockPriceSpriteSheet_49
+  - first:
+      213: -26010493362848312
+    second: stockPriceSpriteSheet_50
+  - first:
+      213: -6240571150077725029
+    second: stockPriceSpriteSheet_51
+  - first:
+      213: -280603408949770658
+    second: stockPriceSpriteSheet_52
+  - first:
+      213: 2981078171662045168
+    second: stockPriceSpriteSheet_53
+  - first:
+      213: 8075701900676031551
+    second: stockPriceSpriteSheet_54
+  - first:
+      213: -8770194902704034735
+    second: stockPriceSpriteSheet_55
+  - first:
+      213: -7877116353587647277
+    second: stockPriceSpriteSheet_56
+  - first:
+      213: -8181965400757663743
+    second: stockPriceSpriteSheet_57
+  - first:
+      213: -7058950196013873899
+    second: stockPriceSpriteSheet_58
+  - first:
+      213: -4948902917309473699
+    second: stockPriceSpriteSheet_59
+  - first:
+      213: 8284390270827238174
+    second: stockPriceSpriteSheet_60
+  - first:
+      213: -3206290018799566938
+    second: stockPriceSpriteSheet_61
+  - first:
+      213: -8934224866046695506
+    second: stockPriceSpriteSheet_62
+  - first:
+      213: 823681776692624780
+    second: stockPriceSpriteSheet_63
+  - first:
+      213: 7613342573333223098
+    second: stockPriceSpriteSheet_64
+  - first:
+      213: -7734907782498519516
+    second: stockPriceSpriteSheet_65
+  - first:
+      213: -8685512228190891532
+    second: stockPriceSpriteSheet_66
+  - first:
+      213: -4055862717753423520
+    second: stockPriceSpriteSheet_67
+  - first:
+      213: 2120456192972370546
+    second: stockPriceSpriteSheet_68
+  - first:
+      213: -1077973557092573622
+    second: stockPriceSpriteSheet_69
+  - first:
+      213: -6415631829475822771
+    second: stockPriceSpriteSheet_70
+  - first:
+      213: -8771680069906248791
+    second: stockPriceSpriteSheet_71
+  - first:
+      213: -218988895872705564
+    second: stockPriceSpriteSheet_72
+  - first:
+      213: 4767670516848647851
+    second: stockPriceSpriteSheet_73
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11847
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee17f3313dfb4650800000000000000
+      internalID: 6218342098282159845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 11847
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4149273f26cfa8e80800000000000000
+      internalID: -8175444671616347116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 11847
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcaeaca7a3b29a10800000000000000
+      internalID: 1914790324323921079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 11847
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 959eef9441d6d3e70800000000000000
+      internalID: 9096546756266486105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 11847
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c2f68c389f5fea0800000000000000
+      internalID: -5839486997417219045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 11001
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c27d24abb0b22210800000000000000
+      internalID: 1306801161850680008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 11001
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841cee2475aa9c2c0800000000000000
+      internalID: -4410807068270870200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 11001
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91835e9ecbae96400800000000000000
+      internalID: 318043345805195289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 11001
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec724ea6c3d38be0800000000000000
+      internalID: -1476103402566812444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 11001
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28780bb9e27ccc0e0800000000000000
+      internalID: -2248203110970259582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10155
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315ef1f092d0f590800000000000000
+      internalID: -7642377047670632133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 10155
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e510a3b19819b0bf0800000000000000
+      internalID: -357031727392489122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 10155
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0512e4626e91f30800000000000000
+      internalID: 4546918351001178279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 10155
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11995bc0b49d40000800000000000000
+      internalID: 1364816265845009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 10155
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4310f9588900d89d0800000000000000
+      internalID: -2770557540686167756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9309
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f702f58701ef70800000000000000
+      internalID: 9214654584449397894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 9309
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a63383eb87a4bb30800000000000000
+      internalID: 4302247763304986275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 9309
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a05913397116d850800000000000000
+      internalID: 6401323132599750820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 9309
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61267bae107942c00800000000000000
+      internalID: 874990262105367062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 9309
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0402ea45e6bcf660800000000000000
+      internalID: 7421007381919826954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8463
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f492208ea45676970800000000000000
+      internalID: 8748072173584918863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 8463
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35144b9653184f60800000000000000
+      internalID: 8018680399226213693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 8463
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a6bab55a891c30800000000000000
+      internalID: 4330644617502827543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 8463
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791715d0acea9b80800000000000000
+      internalID: -8387131180510144135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 8463
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238f90c3c44bacf0800000000000000
+      internalID: -240022547593198813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7618
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb3a5b62f3c99c70800000000000000
+      internalID: 8978422778090372022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 7618
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66cce2d550f7d720800000000000000
+      internalID: 2871027538873599595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 7618
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a494dba3dfe43d380800000000000000
+      internalID: -8947721185135867574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 7618
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee263ef570bb2890800000000000000
+      internalID: -7481692335123321112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 7618
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c2dcd6f74eb3a10800000000000000
+      internalID: 1890355704566197333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6772
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5100d89a7136d20800000000000000
+      internalID: 3270483771383617018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 6772
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8898412da4eab60800000000000000
+      internalID: 7759221474154088608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 6772
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e87b662adb0de90800000000000000
+      internalID: -7002888915355464056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 6772
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931607cf2793d15d0800000000000000
+      internalID: -3090250603282013895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 6772
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab761053b4f212f40800000000000000
+      internalID: 5701890603286095802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5925
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98121c78f05822ce0800000000000000
+      internalID: -1431435429801811575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 5925
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21ce0e45cf104b30800000000000000
+      internalID: 4269447379025838382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5925
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d6a74a77dab930800000000000000
+      internalID: 4159874126018171158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 5925
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d3020dedd6de60800000000000000
+      internalID: 7986814999198947181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 5925
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f795c7343cf5cd0800000000000000
+      internalID: -2567118567961428220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5079
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82b9f6d839de3a30800000000000000
+      internalID: 4197030740903965322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 5079
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497ffee6f4609f7b0800000000000000
+      internalID: -5190110157334382700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 5079
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2ecfadde98caff0800000000000000
+      internalID: -23492243369434387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 5079
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbba246b6593a9c0800000000000000
+      internalID: -3917122962407638022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 5079
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d10e18091da09540800000000000000
+      internalID: 5012696708285333975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4233
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cadadb19d7b77c0800000000000000
+      internalID: -4072523373120476024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 4233
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e2156365e2e7d0800000000000000
+      internalID: -2890495795758178223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 4233
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5057c4c06eabcd080800000000000000
+      internalID: -9161242044766849787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 4233
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbfb3c1c7fbea400800000000000000
+      internalID: 337417561869908930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 4233
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5044f266e09945d0800000000000000
+      internalID: -3077769551153971110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3387
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbca6189793aff0800000000000000
+      internalID: -26010493362848312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3387
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96f01c5a990569a0800000000000000
+      internalID: -6240571150077725029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3387
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5609ceafa81b1cf0800000000000000
+      internalID: -280603408949770658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 3387
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff469d7dcaee5920800000000000000
+      internalID: 2981078171662045168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 3387
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34edbd7718a21070800000000000000
+      internalID: 8075701900676031551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2541
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c6265d3320a4680800000000000000
+      internalID: -8770194902704034735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 2541
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcecf1496cdea290800000000000000
+      internalID: -7877116353587647277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2541
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1088d4361d1d37e80800000000000000
+      internalID: -8181965400757663743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 2541
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5154b675232990e90800000000000000
+      internalID: -7058950196013873899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 2541
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cdfd16407f15bb0800000000000000
+      internalID: -4948902917309473699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1695
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e131c590f0118f270800000000000000
+      internalID: 8284390270827238174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1695
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af329e2738f083d0800000000000000
+      internalID: -3206290018799566938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 1695
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea723d3e1d1430480800000000000000
+      internalID: -8934224866046695506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 1695
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8df9bb363e4e6b00800000000000000
+      internalID: 823681776692624780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 1695
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab692e4bbb608a960800000000000000
+      internalID: 7613342573333223098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 850
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42675c56a5618a490800000000000000
+      internalID: -7734907782498519516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 850
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1de5275acd67780800000000000000
+      internalID: -8685512228190891532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 850
+        width: 1082
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698e8ad85ea6b7c0800000000000000
+      internalID: -4055862717753423520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 850
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27235ef3caf5d6d10800000000000000
+      internalID: 2120456192972370546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 850
+        width: 1084
+        height: 839
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e9b3cd2c44a01f0800000000000000
+      internalID: -1077973557092573622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d437762b7d817f6a0800000000000000
+      internalID: -6415631829475822771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab4dd5637bb44680800000000000000
+      internalID: -8771680069906248791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 3
+        width: 1082
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb90cb62cef5fcf0800000000000000
+      internalID: -218988895872705564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stockPriceSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 3273
+        y: 3
+        width: 1084
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baeddda231b2a2240800000000000000
+      internalID: 4767670516848647851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f261334a0ed415347ac0887a6602e30e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

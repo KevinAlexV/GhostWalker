@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: b4fd8b59921d34244b82665c2a877642
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7751261848809670618
+    second: SynthwaveBackground5_0
+  - first:
+      213: -19289486648856592
+    second: SynthwaveBackground5_1
+  - first:
+      213: -6608443810245420343
+    second: SynthwaveBackground5_2
+  - first:
+      213: -4823958693197608771
+    second: SynthwaveBackground5_3
+  - first:
+      213: -8075996521269049950
+    second: SynthwaveBackground5_4
+  - first:
+      213: 5554408392878461024
+    second: SynthwaveBackground5_5
+  - first:
+      213: -5609649067613189872
+    second: SynthwaveBackground5_6
+  - first:
+      213: -1229565379758388523
+    second: SynthwaveBackground5_7
+  - first:
+      213: 6914491536098830127
+    second: SynthwaveBackground5_8
+  - first:
+      213: -8143390263572860803
+    second: SynthwaveBackground5_9
+  - first:
+      213: 2269029315118518353
+    second: SynthwaveBackground5_10
+  - first:
+      213: 7845542316125932766
+    second: SynthwaveBackground5_11
+  - first:
+      213: 6854710276466894247
+    second: SynthwaveBackground5_12
+  - first:
+      213: -1428045470048257852
+    second: SynthwaveBackground5_13
+  - first:
+      213: -9105254248334995945
+    second: SynthwaveBackground5_14
+  - first:
+      213: -7233418168210427933
+    second: SynthwaveBackground5_15
+  - first:
+      213: 5692719164131065587
+    second: SynthwaveBackground5_16
+  - first:
+      213: -7020766331217281212
+    second: SynthwaveBackground5_17
+  - first:
+      213: -1893794673125733097
+    second: SynthwaveBackground5_18
+  - first:
+      213: 5864160652495022785
+    second: SynthwaveBackground5_19
+  - first:
+      213: -4108306657262878122
+    second: SynthwaveBackground5_20
+  - first:
+      213: -8949677804459214386
+    second: SynthwaveBackground5_21
+  - first:
+      213: -6684958402360723213
+    second: SynthwaveBackground5_22
+  - first:
+      213: 3367607976996973017
+    second: SynthwaveBackground5_23
+  - first:
+      213: 8806802379232319441
+    second: SynthwaveBackground5_24
+  - first:
+      213: -9213972122087185237
+    second: SynthwaveBackground5_25
+  - first:
+      213: 3756377217736575037
+    second: SynthwaveBackground5_26
+  - first:
+      213: 308693552718696946
+    second: SynthwaveBackground5_27
+  - first:
+      213: 7925290342163433646
+    second: SynthwaveBackground5_28
+  - first:
+      213: -7523687492106579017
+    second: SynthwaveBackground5_29
+  - first:
+      213: -2802076895236828158
+    second: SynthwaveBackground5_30
+  - first:
+      213: -6330018892410051278
+    second: SynthwaveBackground5_31
+  - first:
+      213: 2349906415641518558
+    second: SynthwaveBackground5_32
+  - first:
+      213: 2438766022561579487
+    second: SynthwaveBackground5_33
+  - first:
+      213: 8463091276242377671
+    second: SynthwaveBackground5_34
+  - first:
+      213: -5940059482719355692
+    second: SynthwaveBackground5_35
+  - first:
+      213: 424069424782860763
+    second: SynthwaveBackground5_36
+  - first:
+      213: -3827591584852917117
+    second: SynthwaveBackground5_37
+  - first:
+      213: 445945944386445751
+    second: SynthwaveBackground5_38
+  - first:
+      213: -3704138947257886524
+    second: SynthwaveBackground5_39
+  - first:
+      213: 4735786550422409069
+    second: SynthwaveBackground5_40
+  - first:
+      213: -1319972450644045829
+    second: SynthwaveBackground5_41
+  - first:
+      213: 8595683796615429911
+    second: SynthwaveBackground5_42
+  - first:
+      213: 1773904788828375954
+    second: SynthwaveBackground5_43
+  - first:
+      213: -8129798089755059788
+    second: SynthwaveBackground5_44
+  - first:
+      213: 2984452502712407435
+    second: SynthwaveBackground5_45
+  - first:
+      213: 7577949484005393753
+    second: SynthwaveBackground5_46
+  - first:
+      213: 7558046078132455769
+    second: SynthwaveBackground5_47
+  - first:
+      213: 4169976639402109997
+    second: SynthwaveBackground5_48
+  - first:
+      213: -4606038211182916467
+    second: SynthwaveBackground5_49
+  - first:
+      213: 4135172238985560669
+    second: SynthwaveBackground5_50
+  - first:
+      213: 5343696250415889493
+    second: SynthwaveBackground5_51
+  - first:
+      213: 1922315876132116550
+    second: SynthwaveBackground5_52
+  - first:
+      213: -5111806544257795626
+    second: SynthwaveBackground5_53
+  - first:
+      213: 4004246758575630557
+    second: SynthwaveBackground5_54
+  - first:
+      213: -8665045852222885700
+    second: SynthwaveBackground5_55
+  - first:
+      213: 2369123672100642777
+    second: SynthwaveBackground5_56
+  - first:
+      213: 3723066566259833306
+    second: SynthwaveBackground5_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SynthwaveBackground5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad786536593029b60800000000000000
+      internalID: 7751261848809670618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff256860587bbff0800000000000000
+      internalID: -19289486648856592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_2
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca513c1e571a44a0800000000000000
+      internalID: -6608443810245420343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_3
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db88cc0802bdd0db0800000000000000
+      internalID: -4823958693197608771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_4
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5c77ec3fb4cef80800000000000000
+      internalID: -8075996521269049950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_5
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06018fa3109351d40800000000000000
+      internalID: 5554408392878461024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_6
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019805ae4e58622b0800000000000000
+      internalID: -5609649067613189872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_7
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 3332
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da02673dc4bfeee0800000000000000
+      internalID: -1229565379758388523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27ad93ea6535ff50800000000000000
+      internalID: 6914491536098830127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_9
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d707d5863bddcfe80800000000000000
+      internalID: -8143390263572860803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_10
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1505698e3263d7f10800000000000000
+      internalID: 2269029315118518353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_11
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4bf64b27f0ec60800000000000000
+      internalID: 7845542316125932766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_12
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5670bbda2d02f50800000000000000
+      internalID: 6854710276466894247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_13
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8faaa06309e2ce0800000000000000
+      internalID: -1428045470048257852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_14
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e406ab083a3a180800000000000000
+      internalID: -9105254248334995945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_15
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2856
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efe5f3108cbd9b90800000000000000
+      internalID: -7233418168210427933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe37102be9900f40800000000000000
+      internalID: 5692719164131065587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f75c8283a319e90800000000000000
+      internalID: -7020766331217281212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_18
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d40de47c3e7b5e0800000000000000
+      internalID: -1893794673125733097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cae9c53b0fa16150800000000000000
+      internalID: 5864160652495022785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_20
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6524979acdc5cf6c0800000000000000
+      internalID: -4108306657262878122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_21
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9b20b447b5cc380800000000000000
+      internalID: -8949677804459214386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_22
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8b60160c14a33a0800000000000000
+      internalID: -6684958402360723213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_23
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 2380
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d92dabdc952cbe20800000000000000
+      internalID: 3367607976996973017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7153d7a1c083a70800000000000000
+      internalID: 8806802379232319441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_25
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba424a43c25612080800000000000000
+      internalID: -9213972122087185237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d380f896d25512430800000000000000
+      internalID: 3756377217736575037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_27
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f150429623b84400800000000000000
+      internalID: 308693552718696946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_28
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea84c7283994cfd60800000000000000
+      internalID: 7925290342163433646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_29
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b310ff861e769790800000000000000
+      internalID: -7523687492106579017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_30
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204541ae8e50d19d0800000000000000
+      internalID: -2802076895236828158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_31
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1904
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2352360fa514728a0800000000000000
+      internalID: -6330018892410051278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed169b74f6b8c9020800000000000000
+      internalID: 2349906415641518558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd14311c6cc38d120800000000000000
+      internalID: 2438766022561579487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_34
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb52262da0f27570800000000000000
+      internalID: 8463091276242377671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_35
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc72db4f5ba09da0800000000000000
+      internalID: -5940059482719355692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1694025e892e500800000000000000
+      internalID: 424069424782860763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_37
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3844197abb9a1eac0800000000000000
+      internalID: -3827591584852917117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_38
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12e244971503600800000000000000
+      internalID: 445945944386445751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_39
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 1428
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8110ab041489cc0800000000000000
+      internalID: -3704138947257886524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f000eb6c4e8b140800000000000000
+      internalID: 4735786550422409069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_41
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4f06bc048eade0800000000000000
+      internalID: -1319972450644045829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_42
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ff7d20fd00a4770800000000000000
+      internalID: 8595683796615429911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_43
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bca73c10d2e9810800000000000000
+      internalID: 1773904788828375954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_44
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9108cf5b72d2f80800000000000000
+      internalID: -8129798089755059788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_45
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85d2392db7ea6920800000000000000
+      internalID: 2984452502712407435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_46
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9550fffe7e84a2960800000000000000
+      internalID: 7577949484005393753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_47
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 952
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9598e132dd293e860800000000000000
+      internalID: 7558046078132455769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c6d39f8abbed930800000000000000
+      internalID: 4169976639402109997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_49
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c019896a01410c0800000000000000
+      internalID: -4606038211182916467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_50
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d528ac50e35136930800000000000000
+      internalID: 4135172238985560669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_51
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c30a97d6f982a40800000000000000
+      internalID: 5343696250415889493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_52
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648d2feba107daa10800000000000000
+      internalID: 1922315876132116550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_53
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d93ff018073f09b0800000000000000
+      internalID: -5111806544257795626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_54
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8e8e52631f19730800000000000000
+      internalID: 4004246758575630557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_55
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 476
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb078cfe4b29fb780800000000000000
+      internalID: -8665045852222885700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df17887d61d0e020800000000000000
+      internalID: 2369123672100642777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SynthwaveBackground5_57
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 0
+        width: 540
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad9fc0df05dfaa330800000000000000
+      internalID: 3723066566259833306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 52f6abb0443bc89488353d6672e9f0b2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

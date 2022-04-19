@@ -1,0 +1,4476 @@
+fileFormatVersion: 2
+guid: 9a88bbcc75b009c4a9ed1cd1fd218fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7762179755535900907
+    second: SnythwaveBackground3_0
+  - first:
+      213: 2738313308898742711
+    second: SnythwaveBackground3_1
+  - first:
+      213: 1672142798489955638
+    second: SnythwaveBackground3_2
+  - first:
+      213: -7020679925308324656
+    second: SnythwaveBackground3_3
+  - first:
+      213: 1281499208093393365
+    second: SnythwaveBackground3_4
+  - first:
+      213: 226746066716889415
+    second: SnythwaveBackground3_5
+  - first:
+      213: 7134657501452532584
+    second: SnythwaveBackground3_6
+  - first:
+      213: -8452305312207311271
+    second: SnythwaveBackground3_7
+  - first:
+      213: 3974980030529932761
+    second: SnythwaveBackground3_8
+  - first:
+      213: -1045505951198594833
+    second: SnythwaveBackground3_9
+  - first:
+      213: 5321585170722880329
+    second: SnythwaveBackground3_10
+  - first:
+      213: 1154420021979748680
+    second: SnythwaveBackground3_11
+  - first:
+      213: -4167368005565031960
+    second: SnythwaveBackground3_12
+  - first:
+      213: -6955666499637503415
+    second: SnythwaveBackground3_13
+  - first:
+      213: -2674385262251827499
+    second: SnythwaveBackground3_14
+  - first:
+      213: 6551734148486544918
+    second: SnythwaveBackground3_15
+  - first:
+      213: 6933756386933280078
+    second: SnythwaveBackground3_16
+  - first:
+      213: -2082062390212045514
+    second: SnythwaveBackground3_17
+  - first:
+      213: 4570222118235767153
+    second: SnythwaveBackground3_18
+  - first:
+      213: -4340094782569192840
+    second: SnythwaveBackground3_19
+  - first:
+      213: -2550745967149807406
+    second: SnythwaveBackground3_20
+  - first:
+      213: 7083072065699983897
+    second: SnythwaveBackground3_21
+  - first:
+      213: -3171695424324389307
+    second: SnythwaveBackground3_22
+  - first:
+      213: -1257661822064197905
+    second: SnythwaveBackground3_23
+  - first:
+      213: -5486872420529803207
+    second: SnythwaveBackground3_24
+  - first:
+      213: -7383479015498087798
+    second: SnythwaveBackground3_25
+  - first:
+      213: -9110427558101095851
+    second: SnythwaveBackground3_26
+  - first:
+      213: -2633389545484484734
+    second: SnythwaveBackground3_27
+  - first:
+      213: 771619574829431743
+    second: SnythwaveBackground3_28
+  - first:
+      213: -8939129730318645847
+    second: SnythwaveBackground3_29
+  - first:
+      213: -2049674887573858119
+    second: SnythwaveBackground3_30
+  - first:
+      213: 6319010263389292244
+    second: SnythwaveBackground3_31
+  - first:
+      213: -1393647689571195034
+    second: SnythwaveBackground3_32
+  - first:
+      213: 5083637294381508653
+    second: SnythwaveBackground3_33
+  - first:
+      213: -5394354299131861191
+    second: SnythwaveBackground3_34
+  - first:
+      213: -6502265795041099801
+    second: SnythwaveBackground3_35
+  - first:
+      213: -2994007697395722127
+    second: SnythwaveBackground3_36
+  - first:
+      213: -381797034115757043
+    second: SnythwaveBackground3_37
+  - first:
+      213: 4092898930036361480
+    second: SnythwaveBackground3_38
+  - first:
+      213: -6563221038242235128
+    second: SnythwaveBackground3_39
+  - first:
+      213: 4221645537659369700
+    second: SnythwaveBackground3_40
+  - first:
+      213: 2394069966001065990
+    second: SnythwaveBackground3_41
+  - first:
+      213: -8955162339026054722
+    second: SnythwaveBackground3_42
+  - first:
+      213: -2332157217699420781
+    second: SnythwaveBackground3_43
+  - first:
+      213: 3386224040082166443
+    second: SnythwaveBackground3_44
+  - first:
+      213: 1388645638731225177
+    second: SnythwaveBackground3_45
+  - first:
+      213: -2528909613395490167
+    second: SnythwaveBackground3_46
+  - first:
+      213: -928801863195859509
+    second: SnythwaveBackground3_47
+  - first:
+      213: 5713568811254743239
+    second: SnythwaveBackground3_48
+  - first:
+      213: -1110094888824673142
+    second: SnythwaveBackground3_49
+  - first:
+      213: -4775591997553074544
+    second: SnythwaveBackground3_50
+  - first:
+      213: -863856486118373446
+    second: SnythwaveBackground3_51
+  - first:
+      213: 6228143574274668245
+    second: SnythwaveBackground3_52
+  - first:
+      213: -7538519345311104073
+    second: SnythwaveBackground3_53
+  - first:
+      213: 2173514859702956698
+    second: SnythwaveBackground3_54
+  - first:
+      213: 6719531082653977895
+    second: SnythwaveBackground3_55
+  - first:
+      213: -4480016544356156274
+    second: SnythwaveBackground3_56
+  - first:
+      213: -1868895827610168072
+    second: SnythwaveBackground3_57
+  - first:
+      213: -6017242964751884250
+    second: SnythwaveBackground3_58
+  - first:
+      213: 1248097511135858707
+    second: SnythwaveBackground3_59
+  - first:
+      213: -260813625955002826
+    second: SnythwaveBackground3_60
+  - first:
+      213: 5535940334824519804
+    second: SnythwaveBackground3_61
+  - first:
+      213: 2052119793126641485
+    second: SnythwaveBackground3_62
+  - first:
+      213: 192234060220846223
+    second: SnythwaveBackground3_63
+  - first:
+      213: -8395777036930937106
+    second: SnythwaveBackground3_64
+  - first:
+      213: 1782025321309484952
+    second: SnythwaveBackground3_65
+  - first:
+      213: -2936458916879160257
+    second: SnythwaveBackground3_66
+  - first:
+      213: 87745149531193346
+    second: SnythwaveBackground3_67
+  - first:
+      213: -4135127096467499853
+    second: SnythwaveBackground3_68
+  - first:
+      213: -1964767209131822537
+    second: SnythwaveBackground3_69
+  - first:
+      213: -254039967102727774
+    second: SnythwaveBackground3_70
+  - first:
+      213: -7678205952580216911
+    second: SnythwaveBackground3_71
+  - first:
+      213: 8807137414368962915
+    second: SnythwaveBackground3_72
+  - first:
+      213: -1981376302009965601
+    second: SnythwaveBackground3_73
+  - first:
+      213: -5540632340199737528
+    second: SnythwaveBackground3_74
+  - first:
+      213: 1398110680979991807
+    second: SnythwaveBackground3_75
+  - first:
+      213: 5116982202867363823
+    second: SnythwaveBackground3_76
+  - first:
+      213: 8840055883548567510
+    second: SnythwaveBackground3_77
+  - first:
+      213: 3194716744770896314
+    second: SnythwaveBackground3_78
+  - first:
+      213: -7508667681926028645
+    second: SnythwaveBackground3_79
+  - first:
+      213: -1667886429621416102
+    second: SnythwaveBackground3_80
+  - first:
+      213: 1367076184975742334
+    second: SnythwaveBackground3_81
+  - first:
+      213: 3942252859404178581
+    second: SnythwaveBackground3_82
+  - first:
+      213: -4985587753907216688
+    second: SnythwaveBackground3_83
+  - first:
+      213: 8149142315937107601
+    second: SnythwaveBackground3_84
+  - first:
+      213: 6362167467324966529
+    second: SnythwaveBackground3_85
+  - first:
+      213: -5430695723652437853
+    second: SnythwaveBackground3_86
+  - first:
+      213: -3572983578704143382
+    second: SnythwaveBackground3_87
+  - first:
+      213: 5330017549331888113
+    second: SnythwaveBackground3_88
+  - first:
+      213: 4382699229868579517
+    second: SnythwaveBackground3_89
+  - first:
+      213: -8794946326967934301
+    second: SnythwaveBackground3_90
+  - first:
+      213: -4204692201307555040
+    second: SnythwaveBackground3_91
+  - first:
+      213: -3626895125196239811
+    second: SnythwaveBackground3_92
+  - first:
+      213: 9146261954830183301
+    second: SnythwaveBackground3_93
+  - first:
+      213: 7046085688977288694
+    second: SnythwaveBackground3_94
+  - first:
+      213: -1805328051546406796
+    second: SnythwaveBackground3_95
+  - first:
+      213: -5950386906047972419
+    second: SnythwaveBackground3_96
+  - first:
+      213: -6528794846772437526
+    second: SnythwaveBackground3_97
+  - first:
+      213: 5270907589033776446
+    second: SnythwaveBackground3_98
+  - first:
+      213: 4140657187687680467
+    second: SnythwaveBackground3_99
+  - first:
+      213: 8850671884703358822
+    second: SnythwaveBackground3_100
+  - first:
+      213: -2267389018405777729
+    second: SnythwaveBackground3_101
+  - first:
+      213: 7328416199371003048
+    second: SnythwaveBackground3_102
+  - first:
+      213: -1528836282521472561
+    second: SnythwaveBackground3_103
+  - first:
+      213: 3299403118434303749
+    second: SnythwaveBackground3_104
+  - first:
+      213: -3543953323756938377
+    second: SnythwaveBackground3_105
+  - first:
+      213: 2033035518021633912
+    second: SnythwaveBackground3_106
+  - first:
+      213: -3751826226725859357
+    second: SnythwaveBackground3_107
+  - first:
+      213: -629692281723207392
+    second: SnythwaveBackground3_108
+  - first:
+      213: -8206603984479580050
+    second: SnythwaveBackground3_109
+  - first:
+      213: -2404951807629446056
+    second: SnythwaveBackground3_110
+  - first:
+      213: 5156975623296412591
+    second: SnythwaveBackground3_111
+  - first:
+      213: -355339144139677892
+    second: SnythwaveBackground3_112
+  - first:
+      213: 6695244190751736997
+    second: SnythwaveBackground3_113
+  - first:
+      213: 4827612033626371968
+    second: SnythwaveBackground3_114
+  - first:
+      213: -2613409346961669499
+    second: SnythwaveBackground3_115
+  - first:
+      213: 1832785052009247365
+    second: SnythwaveBackground3_116
+  - first:
+      213: 1209224847212366334
+    second: SnythwaveBackground3_117
+  - first:
+      213: -3856909829948675245
+    second: SnythwaveBackground3_118
+  - first:
+      213: 2178468395943916994
+    second: SnythwaveBackground3_119
+  - first:
+      213: -1204504787997395200
+    second: SnythwaveBackground3_120
+  - first:
+      213: 5352848256572333773
+    second: SnythwaveBackground3_121
+  - first:
+      213: 2443247815301161335
+    second: SnythwaveBackground3_122
+  - first:
+      213: -5189493058254871272
+    second: SnythwaveBackground3_123
+  - first:
+      213: 5103683073609792965
+    second: SnythwaveBackground3_124
+  - first:
+      213: 4857624947539918528
+    second: SnythwaveBackground3_125
+  - first:
+      213: 3278470889310036839
+    second: SnythwaveBackground3_126
+  - first:
+      213: -547935324392548586
+    second: SnythwaveBackground3_127
+  - first:
+      213: -1961671268816547549
+    second: SnythwaveBackground3_128
+  - first:
+      213: -6855213285549842271
+    second: SnythwaveBackground3_129
+  - first:
+      213: -7374385912718212287
+    second: SnythwaveBackground3_130
+  - first:
+      213: -7524186098414595979
+    second: SnythwaveBackground3_131
+  - first:
+      213: 2364858616972208307
+    second: SnythwaveBackground3_132
+  - first:
+      213: 5741646048503717270
+    second: SnythwaveBackground3_133
+  - first:
+      213: -7858952427054438405
+    second: SnythwaveBackground3_134
+  - first:
+      213: 8333892871442495470
+    second: SnythwaveBackground3_135
+  - first:
+      213: -470882765951426285
+    second: SnythwaveBackground3_136
+  - first:
+      213: -5000942596666961655
+    second: SnythwaveBackground3_137
+  - first:
+      213: 4096387310790798841
+    second: SnythwaveBackground3_138
+  - first:
+      213: -2937222397196685181
+    second: SnythwaveBackground3_139
+  - first:
+      213: -9007308592052682499
+    second: SnythwaveBackground3_140
+  - first:
+      213: 7925162131736512072
+    second: SnythwaveBackground3_141
+  - first:
+      213: 5410761050654539676
+    second: SnythwaveBackground3_142
+  - first:
+      213: -5214257327072754721
+    second: SnythwaveBackground3_143
+  - first:
+      213: 3107171420741352114
+    second: SnythwaveBackground3_144
+  - first:
+      213: 1938953300758046934
+    second: SnythwaveBackground3_145
+  - first:
+      213: 5286588650916989523
+    second: SnythwaveBackground3_146
+  - first:
+      213: -7852351776834629785
+    second: SnythwaveBackground3_147
+  - first:
+      213: 1899601925886988545
+    second: SnythwaveBackground3_148
+  - first:
+      213: 6247270548347846026
+    second: SnythwaveBackground3_149
+  - first:
+      213: -8323728172963532495
+    second: SnythwaveBackground3_150
+  - first:
+      213: 112241745398496657
+    second: SnythwaveBackground3_151
+  - first:
+      213: -3726704717964365907
+    second: SnythwaveBackground3_152
+  - first:
+      213: 2902930667289972236
+    second: SnythwaveBackground3_153
+  - first:
+      213: 1347745443007817027
+    second: SnythwaveBackground3_154
+  - first:
+      213: -5988538279693306587
+    second: SnythwaveBackground3_155
+  - first:
+      213: 7209172969573443960
+    second: SnythwaveBackground3_156
+  - first:
+      213: -565550692655159994
+    second: SnythwaveBackground3_157
+  - first:
+      213: -4067920699947674298
+    second: SnythwaveBackground3_158
+  - first:
+      213: 1126056182903171386
+    second: SnythwaveBackground3_159
+  - first:
+      213: 2634346897175367063
+    second: SnythwaveBackground3_160
+  - first:
+      213: -7223282508397130337
+    second: SnythwaveBackground3_161
+  - first:
+      213: 8051522774609248116
+    second: SnythwaveBackground3_162
+  - first:
+      213: 2395842731839997607
+    second: SnythwaveBackground3_163
+  - first:
+      213: -5896785467600339751
+    second: SnythwaveBackground3_164
+  - first:
+      213: 6170521604419949372
+    second: SnythwaveBackground3_165
+  - first:
+      213: 1275811599021228548
+    second: SnythwaveBackground3_166
+  - first:
+      213: 3536353377625998677
+    second: SnythwaveBackground3_167
+  - first:
+      213: -7693724844809487167
+    second: SnythwaveBackground3_168
+  - first:
+      213: -3786627186682279114
+    second: SnythwaveBackground3_169
+  - first:
+      213: -2145277731987381969
+    second: SnythwaveBackground3_170
+  - first:
+      213: -8730881966289579544
+    second: SnythwaveBackground3_171
+  - first:
+      213: -8751101949719898911
+    second: SnythwaveBackground3_172
+  - first:
+      213: 1814676413965026572
+    second: SnythwaveBackground3_173
+  - first:
+      213: -6322896250370817506
+    second: SnythwaveBackground3_174
+  - first:
+      213: 5540146780786321692
+    second: SnythwaveBackground3_175
+  - first:
+      213: -3321689461991922475
+    second: SnythwaveBackground3_176
+  - first:
+      213: 1859978945419912297
+    second: SnythwaveBackground3_177
+  - first:
+      213: 6404079147649630942
+    second: SnythwaveBackground3_178
+  - first:
+      213: 7713534842941720551
+    second: SnythwaveBackground3_179
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SnythwaveBackground3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9520
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be02273ac5dc8bb60800000000000000
+      internalID: 7762179755535900907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9520
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b152ac3271700620800000000000000
+      internalID: 2738313308898742711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9520
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63da8bd0405a43710800000000000000
+      internalID: 1672142798489955638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 9520
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4084a1ec8819e90800000000000000
+      internalID: -7020679925308324656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 9520
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e9567dbcc8c110800000000000000
+      internalID: 1281499208093393365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9248
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74190e8a850952300800000000000000
+      internalID: 226746066716889415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 9248
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b77205235630360800000000000000
+      internalID: 7134657501452532584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_7
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9248
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e6cbcc91163ba80800000000000000
+      internalID: -8452305312207311271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_8
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 9248
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd02050747f92730800000000000000
+      internalID: 3974980030529932761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_9
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 9248
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8304070ed9d71f0800000000000000
+      internalID: -1045505951198594833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8976
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b7cee84811ad940800000000000000
+      internalID: 5321585170722880329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8976
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84993b3c4e2550010800000000000000
+      internalID: 1154420021979748680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_12
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8976
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d7fbe0e88a26c0800000000000000
+      internalID: -4167368005565031960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_13
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 8976
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a9509db22887f90800000000000000
+      internalID: -6955666499637503415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_14
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 8976
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de90f206cca2ead0800000000000000
+      internalID: -2674385262251827499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8704
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e3657de7f6cea50800000000000000
+      internalID: 6551734148486544918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_16
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8704
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d014282b6a93060800000000000000
+      internalID: 6933756386933280078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8704
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d53f89470b13e0800000000000000
+      internalID: -2082062390212045514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 8704
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171831e6dc0bc6f30800000000000000
+      internalID: 4570222118235767153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_19
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 8704
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872ef614ac2e4c3c0800000000000000
+      internalID: -4340094782569192840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8432
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d886cbae0ee99cd0800000000000000
+      internalID: -2550745967149807406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8432
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9123a8a14802c4260800000000000000
+      internalID: 7083072065699983897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8432
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546b961e0dfdbf3d0800000000000000
+      internalID: -3171695424324389307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 8432
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feefa487c33eb8ee0800000000000000
+      internalID: -1257661822064197905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_24
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 8432
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930fe6eaa96bad3b0800000000000000
+      internalID: -5486872420529803207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8160
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a828faa64fc988990800000000000000
+      internalID: -7383479015498087798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 8160
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a647fa762419180800000000000000
+      internalID: -9110427558101095851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_27
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 8160
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f7b222922547bd0800000000000000
+      internalID: -2633389545484484734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_28
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 8160
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb32734ae755ba00800000000000000
+      internalID: 771619574829431743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_29
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 8160
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5493f2fd4d1f380800000000000000
+      internalID: -8939129730318645847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7888
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b81f15ac871e83e0800000000000000
+      internalID: -2049674887573858119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_31
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7888
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6cd51ea52a1b750800000000000000
+      internalID: 6319010263389292244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_32
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7888
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667a0196fc4c8ace0800000000000000
+      internalID: -1393647689571195034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_33
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7888
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28a98a5f25bc8640800000000000000
+      internalID: 5083637294381508653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_34
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 7888
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937e4af68576325b0800000000000000
+      internalID: -5394354299131861191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7616
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff66bb5bf43c5a0800000000000000
+      internalID: -6502265795041099801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_36
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7616
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17851f5bcd52376d0800000000000000
+      internalID: -2994007697395722127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_37
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7616
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c8b3dce9593baf0800000000000000
+      internalID: -381797034115757043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_38
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7616
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809c46a44e5ecc830800000000000000
+      internalID: 4092898930036361480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_39
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 7616
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d73393d31cae4a0800000000000000
+      internalID: -6563221038242235128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7344
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8bccfcf3c469a30800000000000000
+      internalID: 4221645537659369700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7344
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600dce223f1793120800000000000000
+      internalID: 2394069966001065990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_42
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7344
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb155649c4fd8b380800000000000000
+      internalID: -8955162339026054722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_43
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7344
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395a9a6ed5382afd0800000000000000
+      internalID: -2332157217699420781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_44
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 7344
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba25cfec2d84efe20800000000000000
+      internalID: 3386224040082166443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7072
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958587fd9d5754310800000000000000
+      internalID: 1388645638731225177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 7072
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98acd78fa1287ecd0800000000000000
+      internalID: -2528909613395490167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_47
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 7072
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc56d7d50ab3c13f0800000000000000
+      internalID: -928801863195859509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_48
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 7072
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00792ef8caa4f40800000000000000
+      internalID: 5713568811254743239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_49
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 7072
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ce0a484962890f0800000000000000
+      internalID: -1110094888824673142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6800
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e96a16160b9bdb0800000000000000
+      internalID: -4775591997553074544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_51
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6800
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab74fff4a17f204f0800000000000000
+      internalID: -863856486118373446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_52
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 6800
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6f5ca259fce6650800000000000000
+      internalID: 6228143574274668245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_53
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 6800
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b34252a89cc16790800000000000000
+      internalID: -7538519345311104073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_54
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 6800
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92b0a6cf30e92e10800000000000000
+      internalID: 2173514859702956698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6528
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d49c60be1904d50800000000000000
+      internalID: 6719531082653977895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6528
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c37c560b8c3d1c0800000000000000
+      internalID: -4480016544356156274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 6528
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4161985295016e0800000000000000
+      internalID: -1868895827610168072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_58
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 6528
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620eebe77657e7ca0800000000000000
+      internalID: -6017242964751884250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_59
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 6528
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3105d4cd212225110800000000000000
+      internalID: 1248097511135858707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6256
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636de589367616cf0800000000000000
+      internalID: -260813625955002826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_61
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6256
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78f8f2676c93dc40800000000000000
+      internalID: 5535940334824519804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_62
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 6256
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8cd944189a7c10800000000000000
+      internalID: 2052119793126641485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_63
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 6256
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80d139fbd3faa200800000000000000
+      internalID: 192234060220846223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_64
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 6256
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee895484453c7b80800000000000000
+      internalID: -8395777036930937106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5984
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897376196960bb810800000000000000
+      internalID: 1782025321309484952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_66
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5984
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ca3e15c2a9f37d0800000000000000
+      internalID: -2936458916879160257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_67
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5984
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2000294afbbb73100800000000000000
+      internalID: 87745149531193346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_68
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5984
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b456f980d31d96c0800000000000000
+      internalID: -4135127096467499853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 5984
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732bc5112aebbb4e0800000000000000
+      internalID: -1964767209131822537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5712
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a90712fef7797cf0800000000000000
+      internalID: -254039967102727774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5712
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79a24fd58817590800000000000000
+      internalID: -7678205952580216911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5712
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369a38fe0dc393a70800000000000000
+      internalID: 8807137414368962915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_73
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5712
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3a15840ccb084e0800000000000000
+      internalID: -1981376302009965601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_74
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 5712
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477a5bfd38bb13b0800000000000000
+      internalID: -5540632340199737528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5440
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffced70c146176310800000000000000
+      internalID: 1398110680979991807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_76
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5440
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefa7ebd33c230740800000000000000
+      internalID: 5116982202867363823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_77
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5440
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7a38d4dff2eaa70800000000000000
+      internalID: 8840055883548567510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_78
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5440
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1cf0af3f9e55c20800000000000000
+      internalID: 3194716744770896314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_79
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 5440
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92e752a68adbc790800000000000000
+      internalID: -7508667681926028645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5168
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f88bc012a7ad8e0800000000000000
+      internalID: -1667886429621416102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_81
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5168
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7510621c84d8f210800000000000000
+      internalID: 1367076184975742334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_82
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 5168
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594dd83b612b5b630800000000000000
+      internalID: 3942252859404178581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_83
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5168
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de92d34a52afcab0800000000000000
+      internalID: -4985587753907216688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_84
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 5168
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e0985a2c1971170800000000000000
+      internalID: 8149142315937107601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4896
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18683737a95fa4850800000000000000
+      internalID: 6362167467324966529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4896
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a67c230b42a4b0800000000000000
+      internalID: -5430695723652437853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_87
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4896
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb190b9d563a6ec0800000000000000
+      internalID: -3572983578704143382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4896
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f77682b8b608f940800000000000000
+      internalID: 5330017549331888113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_89
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 4896
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbad1b1aab972dc30800000000000000
+      internalID: 4382699229868579517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4624
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2237ac9e212f580800000000000000
+      internalID: -8794946326967934301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_91
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4624
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b353768bee5a5c0800000000000000
+      internalID: -4204692201307555040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4624
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0519891eaaadc0800000000000000
+      internalID: -3626895125196239811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_93
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4624
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba258f9cc0eee70800000000000000
+      internalID: 9146261954830183301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_94
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 4624
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd64743a99b8c160800000000000000
+      internalID: 7046085688977288694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4352
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4704780c3bf22f6e0800000000000000
+      internalID: -1805328051546406796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4352
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbffdca2aafb6da0800000000000000
+      internalID: -5950386906047972419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_97
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4352
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed5aba8daf0565a0800000000000000
+      internalID: -6528794846772437526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_98
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4352
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35d4489686062940800000000000000
+      internalID: 5270907589033776446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_99
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 4352
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9cac826c1967930800000000000000
+      internalID: 4140657187687680467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4080
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fd74faf27e3da70800000000000000
+      internalID: 8850671884703358822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 4080
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe4d4e63bd9880e0800000000000000
+      internalID: -2267389018405777729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_102
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 4080
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41ab9a4b3c3b560800000000000000
+      internalID: 7328416199371003048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_103
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 4080
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1349c408b78cae0800000000000000
+      internalID: -1528836282521472561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_104
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 4080
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50fb71db7a5d9cd20800000000000000
+      internalID: 3299403118434303749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3808
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b17ec8a3951dec0800000000000000
+      internalID: -3543953323756938377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_106
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3808
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8778e6b380bc63c10800000000000000
+      internalID: 2033035518021633912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_107
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3808
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc201cce5deebc0800000000000000
+      internalID: -3751826226725859357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_108
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3808
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021451eb432e247f0800000000000000
+      internalID: -629692281723207392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_109
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3808
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e601ac418294c1e80800000000000000
+      internalID: -8206603984479580050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3536
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854305ca215ef9ed0800000000000000
+      internalID: -2404951807629446056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_111
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3536
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab6eeda102419740800000000000000
+      internalID: 5156975623296412591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_112
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3536
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f53ca5ee4911bf0800000000000000
+      internalID: -355339144139677892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_113
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3536
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4414a5e194aec50800000000000000
+      internalID: 6695244190751736997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_114
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3536
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08773b9119f1ff240800000000000000
+      internalID: 4827612033626371968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5820aad9b0e4bbbd0800000000000000
+      internalID: -2613409346961669499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_116
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3264
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58238a65b4c5f6910800000000000000
+      internalID: 1832785052009247365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_117
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3264
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef94baf779708c010800000000000000
+      internalID: 1209224847212366334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_118
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 3264
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b6237c1f0897ac0800000000000000
+      internalID: -3856909829948675245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_119
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 3264
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f6aec6797b3e10800000000000000
+      internalID: 2178468395943916994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2992
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007782de64db84fe0800000000000000
+      internalID: -1204504787997395200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_121
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2992
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce1095f023294a40800000000000000
+      internalID: 5352848256572333773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_122
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2992
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771664171f828e120800000000000000
+      internalID: 2443247815301161335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_123
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2992
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815ec520f873bf7b0800000000000000
+      internalID: -5189493058254871272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_124
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2992
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd7fa807bce3d640800000000000000
+      internalID: 5103683073609792965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2720
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce313a2720c96340800000000000000
+      internalID: 4857624947539918528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_126
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2720
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a8cb57e77f7d20800000000000000
+      internalID: 3278470889310036839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_127
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2720
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61791bdb9b75568f0800000000000000
+      internalID: -547935324392548586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_128
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2720
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3219918df5eb6c4e0800000000000000
+      internalID: -1961671268816547549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_129
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2720
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0634756d36dd0a0800000000000000
+      internalID: -6855213285549842271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_130
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14349c3651be8a990800000000000000
+      internalID: -7374385912718212287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2448
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570d01cbb98b49790800000000000000
+      internalID: -7524186098414595979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_132
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2448
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b866a0f16aa1d020800000000000000
+      internalID: 2364858616972208307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_133
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2448
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dd61b19ac6eaf40800000000000000
+      internalID: 5741646048503717270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_134
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2448
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e9b6f7646fe290800000000000000
+      internalID: -7858952427054438405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee77d76696fe7a370800000000000000
+      internalID: 8333892871442495470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_136
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2176
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311ac948e961779f0800000000000000
+      internalID: -470882765951426285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_137
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2176
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901db875435199ab0800000000000000
+      internalID: -5000942596666961655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_138
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2176
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd6a1a3e8a49d830800000000000000
+      internalID: 4096387310790798841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_139
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 2176
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38035c4bac3ec37d0800000000000000
+      internalID: -2937222397196685181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0406cee8c9ff280800000000000000
+      internalID: -9007308592052682499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_141
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1904
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846488138f4dbfd60800000000000000
+      internalID: 7925162131736512072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_142
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1904
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f78c41282e61b40800000000000000
+      internalID: 5410761050654539676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_143
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1904
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3c95c569c33a7b0800000000000000
+      internalID: -5214257327072754721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_144
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1904
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bab885d1f3ee1b20800000000000000
+      internalID: 3107171420741352114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d821c701cb88ea10800000000000000
+      internalID: 1938953300758046934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_146
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1632
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ac4835e5cbd5940800000000000000
+      internalID: 5286588650916989523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_147
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1632
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f4d5a99a7d60390800000000000000
+      internalID: -7852351776834629785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_148
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1632
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101542713edbc5a10800000000000000
+      internalID: 1899601925886988545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_149
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1632
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d780ad673c2b650800000000000000
+      internalID: 6247270548347846026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131f893e35d2c7c80800000000000000
+      internalID: -8323728172963532495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1360
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7273d543ce8100800000000000000
+      internalID: 112241745398496657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1360
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf26fecdc5184cc0800000000000000
+      internalID: -3726704717964365907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_153
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1360
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e086fbf08494820800000000000000
+      internalID: 2902930667289972236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_154
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1360
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345e12af65724b210800000000000000
+      internalID: 1347745443007817027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_155
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5253d0bc92074eca0800000000000000
+      internalID: -5988538279693306587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_156
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879e5c7be902c0460800000000000000
+      internalID: 7209172969573443960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_157
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64520d534a2c628f0800000000000000
+      internalID: -565550692655159994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_158
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64519291da7db87c0800000000000000
+      internalID: -4067920699947674298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_159
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1088
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39631bd12e80af00800000000000000
+      internalID: 1126056182903171386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4a4dab841f8420800000000000000
+      internalID: 2634346897175367063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_161
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 816
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d42b644deb1cb90800000000000000
+      internalID: -7223282508397130337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_162
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 816
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3d810e41ccbf60800000000000000
+      internalID: 8051522774609248116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_163
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 816
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a64609554ebf3120800000000000000
+      internalID: 2395842731839997607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_164
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 816
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcfef61cd86a2ea0800000000000000
+      internalID: -5896785467600339751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_165
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c331356d4b812a550800000000000000
+      internalID: 6170521604419949372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_166
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 544
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402cbf7c3e794b110800000000000000
+      internalID: 1275811599021228548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_167
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55586a919a6a31130800000000000000
+      internalID: 3536353377625998677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_168
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 544
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc788944066a3590800000000000000
+      internalID: -7693724844809487167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_169
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 544
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b47f8d2a2337bc0800000000000000
+      internalID: -3786627186682279114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f212658d4417a32e0800000000000000
+      internalID: -2145277731987381969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_171
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 272
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1127f1c1da5d680800000000000000
+      internalID: -8730881966289579544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_172
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 272
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e497bd5427dd8680800000000000000
+      internalID: -8751101949719898911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_173
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 272
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c054aac75960f2910800000000000000
+      internalID: 1814676413965026572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_174
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 272
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e128ff44c5f8048a0800000000000000
+      internalID: -6322896250370817506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ea48e42e82ec40800000000000000
+      internalID: 5540146780786321692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_176
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d420db880df6e1d0800000000000000
+      internalID: -3321689461991922475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_177
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964a57b0ff8ffc910800000000000000
+      internalID: 1859978945419912297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_178
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed28425fd0cdfd850800000000000000
+      internalID: 6404079147649630942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SnythwaveBackground3_179
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 272
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c324521bfb0b60800000000000000
+      internalID: 7713534842941720551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 32c00145485af7541a4e793d025258c6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
